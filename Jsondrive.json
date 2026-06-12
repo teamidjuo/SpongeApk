@@ -1,16 +1,50 @@
 {
-  "max_count_ads": "14",
+  "max_count_ads": "15",
+
+  "our_ads1_activation":"false",
+  "our_ads1_image_url":"https://raw.githubusercontent.com/teamidjuo/GrannySponge/refs/heads/main/GrannyPolice1.png",
+  "our_ads1_link_url":"https://play.google.com/store/apps/details?id=com.horrordev99.EscapePoliceGrannyPrison",
+
+  "our_ads2_activation":"false",
+  "our_ads2_image_url":"https://raw.githubusercontent.com/teamIdjuo/GrannySponge/main/barbygranny.png",
+  "our_ads2_link_url":"https://play.google.com/store/apps/details?id=com.barbieprincess.tonyboyandgirlprincess.barbiegranny",
+
+  "our_ads3_activation":"false",
+  "our_ads3_image_url":"https://raw.githubusercontent.com/teamidjuo/GrannySponge/refs/heads/main/adsPoliceGranny.png",
+  "our_ads3_link_url":"https://www.playscare.com/police-granny",
+
+  "our_ads_inter_activation":"false",
+  "our_ads_inter_image_url":"https://raw.githubusercontent.com/teamidjuo/GrannySponge/refs/heads/main/Grannypolice2.png",
+  "our_ads_inter_link_url":"https://www.playscare.com/police-granny",
+
+  "admob_app_id": "ca-app-pub-5834141336216298~2305114113",
+  "admob_banner": "ca-app-pub-5834141336216298/7932845310",
+  "admob_interstitial": "ca-app-pub-5834141336216298/3426624093",
+
+  "unity_app_id": "",
+  "unity_banner": "Banner_Android",
+  "unity_interstitial": "Interstitial_Android",
+
+  "appLovin_app_id": "3SatniGF1C6AIhT2W8V7iPaqnB03RK8n783ZKJMrCdzAltrQxklF19RswAIfcUAFlGHHdWq8JIm6XEbCt_xW9i",
+  "appLovin_banner": "e8fc70da060f8055",
+  "appLovin_interstitial": "dca5f4121a8162a6",
+
+    "gameplay_ads_mode": "aggressive",
+"min_time_before_gameplay_ads": "60",
+"min_deaths_before_ads": "2",
+
+"use_mediation": "false",
+
+"max_percentage": "70",
+"admob_percentage": "30",
+
+"applovin_activation": "true",
+"unity_activation": "false",
+"admob_activation": "true",
+
+"applovin_percentage": "50",
+"unity_percentage": "0",
+"admob_percentage_non_mediation": "50"
+
   
-   "our_ads1_activation":"false",
-    "our_ads1_image_url":"https://raw.githubusercontent.com/teamIdjuo/Test/main/111.png",
-    "our_ads1_link_url":"https://play.google.com/store/apps/details?id=com.talkingjuan.trollcat.happyjuan",
-
-    "our_ads2_activation":"false",
-    "our_ads2_image_url":"https://raw.githubusercontent.com/teamIdjuo/Test/main/22.png",
-    "our_ads2_link_url":"https://play.google.com/store/apps/details?id=com.talkingjuan.trollcat.happyjuan",
-
-    "our_ads3_activation":"false",
-    "our_ads3_image_url":"https://raw.githubusercontent.com/teamIdjuo/Test/main/333.png",
-    "our_ads3_link_url":"https://play.google.com/store/apps/details?id=com.talkingjuan.trollcat.happyjuan"
-
 }
